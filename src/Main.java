@@ -14,6 +14,7 @@ public class Main {
 //    четвертая с именем fullName — для хранения Ф. И. О. сотрудника в формате "Фамилия Имя Отчество".
 //    Выведите в консоль фразу: “ФИО сотрудника — ….”
 //    В качестве данных для задачи используйте “Ivanov Ivan Ivanovich”.
+
         System.out.println("Задание 1");
         String firstName = "Ivanov";
         String middleName = "Ivan";
